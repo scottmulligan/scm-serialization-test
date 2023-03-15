@@ -1,0 +1,33 @@
+﻿---
+ID: "423c2d14-cf72-4c93-893b-d03204dcb387"
+Parent: "1f4b781b-f2a5-5647-99df-c0c369162c4d"
+Template: "819c5f1d-58e0-432f-bd5a-a523ba8aebce"
+Path: /sitecore/content/PLAY/playwebsite/home/speakers/Not Published
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{7201FF6E-A866-48B2-A74E-7A346BC5EA74}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25077cfc-8c62-4e5a-9c28-7ffe9c1e5678"
+    - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
+      Hint: Description
+      Value: test test test
+    - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
+      Hint: Name
+      Value: Not Published
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
+      Value: Not Published
