@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{E917EE1E-AC53-4B1B-A527-16F59806FEC7}" />
+    <image mediaid="{996FDF75-A915-499F-94F1-0DF1CDBA1882}" />
 Languages:
 - Language: en
   Versions:
@@ -21,10 +21,13 @@ Languages:
       Value: <r />
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{1A6F7D0E-F404-45BC-836F-8A16143DAA16}"
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b0086855-eeeb-430b-b32f-8370322caec1"
+      Value: "970b7b60-4c53-444b-973e-3199bde0ce1e"
+    - ID: "d0b11041-4e9d-4066-b833-2fb20c0cc47d"
+      Hint: Description
+      Value: test test test
     - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
       Hint: Name
       Value: John Doe
